@@ -1,5 +1,5 @@
 wdir: ../models
 outs:
-- md5: 02f3b0034769ba45d758ad1bb9de33a3
-  size: 17562590
+- md5: 806f882b45f96b8c44844922015f9b2f
+  size: 17562504
   path: model.onnx
